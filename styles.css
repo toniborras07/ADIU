@@ -1,0 +1,27 @@
+
+.parrafo{
+    text-align:center;
+    color: rgb(35, 28, 78);
+}
+.titulo {
+  text-align: center;
+  }
+
+.cuerpo {
+    margin: 20px;
+    text-align: center;
+  }
+
+.edad {
+    color: green;
+  }
+
+.cara {
+    float: left;
+    margin: 5px;
+  }
+
+.par {
+    text-align: justify;
+    font-size: 25px;
+  }
